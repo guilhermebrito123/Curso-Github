@@ -1,3 +1,3 @@
 ### Curso-Github
 
-#Aprimorando meus conhecimentos em git e Github
+Aprimorando meus conhecimentos em git e Github
